@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kipla-123
+- 👋 Hi, I’m @biishadrack
 - 👀 I’m a full-stack developer.
 - 💞️ I’m looking to collaborate on javascript projects 
 - 📫 How to reach me shadsbii@gmail.com,0725314415
