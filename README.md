@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @kipla-123
-- 👀 I’m interested in coding 
-- 🌱 I’m currently learning android development
-- 💞️ I’m looking to collaborate on java projects 
-- 📫 How to reach me shadsbii@gmail.com,0798804301
+- 👀 I’m a full-stack developer.
+- 💞️ I’m looking to collaborate on javascript projects 
+- 📫 How to reach me shadsbii@gmail.com,0725314415
 - 😄 Pronouns: he
-- ⚡ Fun fact: one thing on my bucket list is to be a full stack developer 😁
+  
 
 <!---
 kipla-123/kipla-123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
